@@ -4,6 +4,10 @@
 
 `hebbwatch` is a terminal-native observability tool for Hebbian learning dynamics. It renders a live heatmap of synaptic weights while a small neural system learns from synthetic input streams. The goal is simple: make learning visible while it is happening, not after training finishes.
 
+## Live Demo
+
+![hebbwatch demo](assets/demo.gif)
+
 ```bash
 pip install -e .
 hebbwatch run --neurons 64 --inputs 8 --duration 30

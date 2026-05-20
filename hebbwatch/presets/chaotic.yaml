@@ -1,0 +1,9 @@
+neurons: 96
+inputs: 16
+steps: 900
+fps: 24
+seed: 3
+learning_rate: 0.02
+rule: competitive
+input_mode: drifting
+noise: 0.06

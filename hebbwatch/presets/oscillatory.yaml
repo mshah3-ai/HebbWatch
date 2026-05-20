@@ -1,0 +1,9 @@
+neurons: 64
+inputs: 10
+steps: 720
+fps: 24
+seed: 21
+learning_rate: 0.01
+rule: hebbian
+input_mode: oscillatory
+noise: 0.025

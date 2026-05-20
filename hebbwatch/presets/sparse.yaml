@@ -1,0 +1,9 @@
+neurons: 64
+inputs: 12
+steps: 720
+fps: 24
+seed: 11
+learning_rate: 0.012
+rule: oja
+input_mode: sparse
+noise: 0.02

@@ -1,0 +1,9 @@
+neurons: 64
+inputs: 8
+steps: 720
+fps: 24
+seed: 7
+learning_rate: 0.015
+rule: competitive
+input_mode: correlated
+noise: 0.03
